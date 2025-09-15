@@ -54,3 +54,14 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+
+I’m a senior undergraduate at **Southeast University**, about to embark on my PhD journey at the **School of Computer Science, Shanghai Jiao Tong University**.
+
+I chase **love, freedom, and excellence** — not only in research, but also in life. My work sits at the intersection of **computer security and artificial intelligence**, where curiosity fuels my code and persistence shapes my ideas.
+
+I believe in building things that last, asking questions that matter, and exploring boldly where knowledge has yet to reach. 
+
+
