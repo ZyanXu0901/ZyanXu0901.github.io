@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-08-18-paper-title-number-1
 excerpt: 'This work presents SCEP-TI, a novel method that leverages side-channel features in encrypted proxy video streams to accurately identify video titles. The approach demonstrates that even encrypted traffic can leak sensitive information through traffic patterns, posing new privacy and security risks.'
-date: 2025-08
+date: 2025-08-18
 venue: 'Journal 1'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1389128625005973'
 citation: 'Yi Zhang, Zhenyu Xu, Xurui Ren, Hua Wu, Guang Cheng, SCEP-TI: A side-channel attack on encrypted proxy video streams for video title identification, Computer Networks, Volume 271,2025,111630, ISSN 1389-1286,https://doi.org/10.1016/j.comnet.2025.111630'
