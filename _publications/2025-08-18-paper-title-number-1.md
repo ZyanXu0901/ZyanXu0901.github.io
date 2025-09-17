@@ -2,7 +2,7 @@
 title: "SCEP-TI: A side-channel attack on encrypted proxy video streams for video title identification"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-paper-title-number-1
+permalink: /publication/2025-08-18-paper-title-number-1
 excerpt: 'This work presents SCEP-TI, a novel method that leverages side-channel features in encrypted proxy video streams to accurately identify video titles. The approach demonstrates that even encrypted traffic can leak sensitive information through traffic patterns, posing new privacy and security risks.'
 date: 2025-08
 venue: 'Journal 1'
