@@ -23,7 +23,7 @@ repository               : "ZyanXu0901/ZyanXu0901.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "{{ site.baseurl }}/images/profile.jpg"
   name             : "Zhenyu Xu"
   pronouns         : "he/him"  
   bio              : "ENTP-A"
